@@ -1,0 +1,1084 @@
+departure_country,land_city,flights_in_month,flight_days,month
+Denmark,Shanghai,5,5,2022-05
+Denmark,Shanghai,4,4,2022-06
+Denmark,Shanghai,2,2,2022-07
+Denmark,Beijing,19,15,2022-05
+Denmark,Beijing,17,13,2022-06
+Denmark,Beijing,4,4,2022-07
+Denmark,Xi'an,2,2,2022-07
+Uzbekistan,Shanghai,6,6,2022-05
+Uzbekistan,Shanghai,10,10,2022-06
+Uzbekistan,Shanghai,16,16,2022-07
+Uzbekistan,Beijing,1,1,2022-05
+Uzbekistan,Tianjin,2,1,2022-07
+Uzbekistan,Guangzhou,1,1,2022-05
+Uzbekistan,Chengdu,3,3,2022-05
+Uzbekistan,Chengdu,10,10,2022-06
+Uzbekistan,Chengdu,7,6,2022-07
+Uzbekistan,Shenzhen,1,1,2022-05
+Uzbekistan,Hongkong,13,10,2022-05
+Uzbekistan,Hongkong,20,17,2022-06
+Uzbekistan,Hongkong,17,16,2022-07
+Israel,Chengdu,27,21,2022-05
+Israel,Chengdu,27,20,2022-06
+Israel,Chengdu,20,16,2022-07
+Israel,Hongkong,13,13,2022-05
+Israel,Hongkong,16,16,2022-06
+Israel,Hongkong,5,5,2022-07
+Iraq,chongqing,1,1,2022-06
+Iran,Guangzhou,14,14,2022-05
+Iran,Guangzhou,17,17,2022-06
+Iran,Guangzhou,13,13,2022-07
+Russia,Shanghai,2,2,2022-07
+Russia,Urumqi,6,6,2022-06
+Russia,Urumqi,5,5,2022-07
+Russia,Lanzhou,1,1,2022-06
+Russia,Lanzhou,1,1,2022-07
+Russia,Beijing,20,19,2022-05
+Russia,Beijing,18,16,2022-06
+Russia,Beijing,9,8,2022-07
+Russia,Nanjing,1,1,2022-05
+Russia,Nanjing,2,2,2022-06
+Russia,Nanjing,1,1,2022-07
+Russia,Harbin,1,1,2022-07
+Russia,Dalian,1,1,2022-07
+Russia,Guangzhou,4,4,2022-06
+Russia,Guangzhou,4,4,2022-07
+Russia,Chengdu,2,2,2022-05
+Russia,Chengdu,4,4,2022-06
+Russia,Chengdu,4,4,2022-07
+Russia,Shenyang,2,2,2022-07
+Russia,Jinan,1,1,2022-07
+Russia,Shenzhen,3,3,2022-07
+Russia,Xi'an,11,8,2022-07
+Russia,Zhengzhou,1,1,2022-06
+Russia,Zhengzhou,4,4,2022-07
+Russia,Changchun,1,1,2022-07
+Russia,Qingdao,1,1,2022-05
+Russia,Qingdao,2,2,2022-06
+Russia,Qingdao,1,1,2022-07
+Russia,Hongkong,1,1,2022-06
+Guam,Shanghai,5,5,2022-05
+Guam,Shanghai,4,4,2022-06
+Guam,Shanghai,4,4,2022-07
+Guam,Xiamen,1,1,2022-05
+Guam,Xiamen,6,6,2022-06
+Guam,Xiamen,1,1,2022-07
+Guam,Ningbo,1,1,2022-05
+Guam,Hongkong,19,14,2022-05
+Guam,Hongkong,14,14,2022-06
+Guam,Hongkong,14,10,2022-07
+Guinea,Wuhan,1,1,2022-06
+Canada,Shanghai,31,22,2022-05
+Canada,Shanghai,36,28,2022-06
+Canada,Shanghai,41,31,2022-07
+Canada,Beijing,21,19,2022-05
+Canada,Beijing,15,12,2022-06
+Canada,Beijing,7,7,2022-07
+Canada,Xiamen,5,5,2022-05
+Canada,Xiamen,4,4,2022-06
+Canada,Xiamen,4,4,2022-07
+Canada,Taipei,62,31,2022-05
+Canada,Taipei,64,29,2022-06
+Canada,Taipei,69,31,2022-07
+Canada,Guangzhou,68,31,2022-05
+Canada,Guangzhou,62,30,2022-06
+Canada,Guangzhou,49,29,2022-07
+Canada,Chengdu,4,4,2022-05
+Canada,Chengdu,5,5,2022-06
+Canada,Chengdu,4,4,2022-07
+Canada,Hangzhou,2,2,2022-05
+Canada,Hangzhou,2,2,2022-06
+Canada,Shenzhen,4,4,2022-06
+Canada,Shenzhen,4,4,2022-07
+Canada,Zhengzhou,9,9,2022-05
+Canada,Zhengzhou,14,14,2022-06
+Canada,Zhengzhou,12,12,2022-07
+Canada,Hongkong,12,11,2022-05
+Canada,Hongkong,24,18,2022-06
+Canada,Hongkong,26,21,2022-07
+Hungary,Shanghai,7,7,2022-05
+Hungary,Shanghai,9,9,2022-06
+Hungary,Beijing,1,1,2022-06
+Hungary,Tianjin,3,3,2022-07
+Hungary,Chengdu,1,1,2022-05
+Hungary,Xi'an,1,1,2022-07
+South Africa,Shenzhen,4,4,2022-05
+South Africa,Shenzhen,3,3,2022-06
+South Africa,Shenzhen,4,4,2022-07
+Qatar,Shanghai,17,17,2022-05
+Qatar,Shanghai,22,21,2022-06
+Qatar,Shanghai,24,24,2022-07
+Qatar,Tianjin,2,2,2022-07
+Qatar,Guangzhou,5,5,2022-05
+Qatar,Guangzhou,4,4,2022-06
+Qatar,Guangzhou,5,5,2022-07
+Qatar,Macao,9,9,2022-05
+Qatar,Macao,9,9,2022-06
+Qatar,Macao,2,2,2022-07
+Qatar,Zhengzhou,5,5,2022-05
+Qatar,Zhengzhou,4,4,2022-06
+Qatar,Zhengzhou,5,5,2022-07
+Qatar,Hongkong,30,26,2022-05
+Qatar,Hongkong,66,30,2022-06
+Qatar,Hongkong,71,31,2022-07
+Luxembourg,Shanghai,4,4,2022-05
+Luxembourg,Shanghai,17,17,2022-06
+Luxembourg,Shanghai,10,10,2022-07
+Luxembourg,Tianjin,3,3,2022-07
+Luxembourg,Hongkong,3,3,2022-05
+Luxembourg,Hongkong,9,8,2022-06
+Luxembourg,Hongkong,5,5,2022-07
+India,Shanghai,1,1,2022-07
+India,Nanning,4,4,2022-05
+India,Nanning,7,7,2022-06
+India,Nanning,4,4,2022-07
+India,Taipei,13,13,2022-05
+India,Taipei,12,12,2022-06
+India,Taipei,15,15,2022-07
+India,Chengdu,47,29,2022-05
+India,Chengdu,50,30,2022-06
+India,Chengdu,47,30,2022-07
+India,Kunming,10,10,2022-05
+India,Kunming,5,4,2022-06
+India,Kunming,3,3,2022-07
+India,Shenzhen,5,5,2022-05
+India,Shenzhen,1,1,2022-06
+India,Shenzhen,1,1,2022-07
+India,Macao,1,1,2022-07
+India,chongqing,2,2,2022-05
+India,chongqing,4,4,2022-06
+India,chongqing,10,10,2022-07
+India,Hongkong,196,31,2022-05
+India,Hongkong,193,30,2022-06
+India,Hongkong,192,31,2022-07
+Indonesia,Shanghai,10,9,2022-05
+Indonesia,Shanghai,20,20,2022-06
+Indonesia,Shanghai,15,14,2022-07
+Indonesia,Beijing,1,1,2022-07
+Indonesia,Nanjing,2,2,2022-07
+Indonesia,Taipei,55,30,2022-05
+Indonesia,Taipei,68,30,2022-06
+Indonesia,Taipei,72,31,2022-07
+Indonesia,Guangzhou,15,15,2022-05
+Indonesia,Guangzhou,20,17,2022-06
+Indonesia,Guangzhou,11,11,2022-07
+Indonesia,Kunming,3,3,2022-05
+Indonesia,Kunming,2,2,2022-06
+Indonesia,Kunming,3,3,2022-07
+Indonesia,Hangzhou,1,1,2022-06
+Indonesia,Hangzhou,1,1,2022-07
+Indonesia,Wuhan,2,2,2022-05
+Indonesia,Wuhan,2,2,2022-06
+Indonesia,Wuhan,3,3,2022-07
+Indonesia,Shenzhen,5,5,2022-05
+Indonesia,Shenzhen,3,3,2022-06
+Indonesia,Shenzhen,3,3,2022-07
+Indonesia,Fuzhou,6,6,2022-05
+Indonesia,Fuzhou,11,11,2022-06
+Indonesia,Fuzhou,11,11,2022-07
+Indonesia,Hongkong,56,28,2022-05
+Indonesia,Hongkong,56,25,2022-06
+Indonesia,Hongkong,57,30,2022-07
+Kyrgyzstan,Shanghai,5,5,2022-05
+Kyrgyzstan,Shanghai,4,4,2022-06
+Kyrgyzstan,Shanghai,4,4,2022-07
+Kyrgyzstan,Urumqi,2,2,2022-07
+Kyrgyzstan,Beijing,1,1,2022-06
+Kyrgyzstan,Guangzhou,4,4,2022-05
+Kyrgyzstan,Hongkong,15,12,2022-05
+Kyrgyzstan,Hongkong,6,6,2022-06
+Kyrgyzstan,Hongkong,6,6,2022-07
+Kazakhstan,Shanghai,6,6,2022-05
+Kazakhstan,Shanghai,26,17,2022-06
+Kazakhstan,Shanghai,27,22,2022-07
+Kazakhstan,Urumqi,3,3,2022-05
+Kazakhstan,Urumqi,11,11,2022-06
+Kazakhstan,Urumqi,3,3,2022-07
+Kazakhstan,Beijing,4,4,2022-05
+Kazakhstan,Beijing,10,9,2022-06
+Kazakhstan,Beijing,4,4,2022-07
+Kazakhstan,Taipei,5,5,2022-05
+Kazakhstan,Taipei,4,4,2022-06
+Kazakhstan,Guangzhou,4,4,2022-05
+Kazakhstan,Guangzhou,4,4,2022-06
+Kazakhstan,Guangzhou,4,4,2022-07
+Kazakhstan,Chengdu,5,4,2022-05
+Kazakhstan,Chengdu,12,11,2022-06
+Kazakhstan,Chengdu,13,12,2022-07
+Kazakhstan,Jinan,1,1,2022-06
+Kazakhstan,Shenzhen,9,9,2022-05
+Kazakhstan,Shenzhen,1,1,2022-07
+Kazakhstan,Macao,9,8,2022-05
+Kazakhstan,Macao,4,4,2022-06
+Kazakhstan,Macao,4,4,2022-07
+Kazakhstan,Fuzhou,1,1,2022-06
+Kazakhstan,Fuzhou,1,1,2022-07
+Kazakhstan,Zhengzhou,3,3,2022-05
+Kazakhstan,Zhengzhou,1,1,2022-07
+Kazakhstan,Hongkong,57,25,2022-05
+Kazakhstan,Hongkong,52,29,2022-06
+Kazakhstan,Hongkong,27,17,2022-07
+Turkmenistan,Beijing,15,13,2022-05
+Turkmenistan,Beijing,12,11,2022-06
+Turkmenistan,Beijing,9,9,2022-07
+Turkey,Beijing,19,19,2022-05
+Turkey,Beijing,4,4,2022-06
+Turkey,Beijing,1,1,2022-07
+Turkey,Taipei,27,22,2022-05
+Turkey,Taipei,23,21,2022-06
+Turkey,Taipei,30,23,2022-07
+Turkey,Guangzhou,5,5,2022-05
+Turkey,Guangzhou,2,2,2022-06
+Turkey,Chengdu,2,2,2022-06
+Turkey,Chengdu,7,7,2022-07
+Turkey,Wuhan,1,1,2022-05
+Turkey,Wuhan,1,1,2022-06
+Turkey,Wuhan,5,5,2022-07
+Turkey,Shenzhen,1,1,2022-06
+Turkey,Shenzhen,3,3,2022-07
+Turkey,chongqing,5,5,2022-05
+Turkey,chongqing,2,2,2022-06
+Turkey,Hongkong,18,17,2022-05
+Turkey,Hongkong,26,25,2022-06
+Turkey,Hongkong,33,25,2022-07
+Tanzania,Guangzhou,3,3,2022-07
+Egypt,Guangzhou,3,3,2022-05
+Egypt,Guangzhou,4,4,2022-06
+Egypt,Guangzhou,5,5,2022-07
+Egypt,Chengdu,3,3,2022-05
+Egypt,Chengdu,6,6,2022-06
+Egypt,Chengdu,9,9,2022-07
+Egypt,Hangzhou,3,3,2022-05
+Egypt,Hangzhou,3,3,2022-06
+Egypt,Hangzhou,4,4,2022-07
+Egypt,Hongkong,3,3,2022-05
+Egypt,Hongkong,2,2,2022-06
+Egypt,Hongkong,3,3,2022-07
+Ethiopia,Shanghai,7,7,2022-05
+Ethiopia,Shanghai,11,11,2022-06
+Ethiopia,Shanghai,13,13,2022-07
+Ethiopia,Beijing,12,12,2022-05
+Ethiopia,Beijing,6,6,2022-06
+Ethiopia,Beijing,2,2,2022-07
+Ethiopia,Guangzhou,2,2,2022-05
+Ethiopia,Guangzhou,2,2,2022-06
+Ethiopia,Guangzhou,5,4,2022-07
+Ethiopia,Chengdu,13,13,2022-05
+Ethiopia,Chengdu,13,13,2022-06
+Ethiopia,Chengdu,11,11,2022-07
+Ethiopia,Wuhan,1,1,2022-05
+Ethiopia,Wuhan,4,4,2022-06
+Ethiopia,Wuhan,9,9,2022-07
+Ethiopia,Hongkong,5,5,2022-05
+Ethiopia,Hongkong,8,7,2022-06
+Ethiopia,Hongkong,7,6,2022-07
+Tajikistan,Urumqi,2,2,2022-07
+Serbia,Dalian,3,3,2022-07
+Serbia,Tianjin,1,1,2022-05
+Austria,Shanghai,4,4,2022-05
+Austria,Shanghai,4,4,2022-06
+Austria,Shanghai,3,3,2022-07
+Austria,Taipei,17,17,2022-05
+Austria,Taipei,17,17,2022-06
+Austria,Taipei,9,8,2022-07
+Austria,Shenyang,1,1,2022-07
+Bangladesh,Guangzhou,2,2,2022-05
+Bangladesh,Guangzhou,3,3,2022-06
+Bangladesh,Guangzhou,2,2,2022-07
+Bangladesh,Chengdu,9,9,2022-05
+Bangladesh,Chengdu,11,11,2022-06
+Bangladesh,Chengdu,6,6,2022-07
+Bangladesh,Kunming,2,2,2022-05
+Bangladesh,Kunming,2,2,2022-06
+Bangladesh,Kunming,5,5,2022-07
+Bangladesh,Wuhan,1,1,2022-05
+Bangladesh,Wuhan,3,3,2022-06
+Bangladesh,Wuhan,1,1,2022-07
+Bangladesh,Shenzhen,1,1,2022-05
+Bangladesh,chongqing,5,5,2022-05
+Bangladesh,chongqing,2,2,2022-06
+Bangladesh,chongqing,3,3,2022-07
+Bangladesh,Hongkong,38,24,2022-05
+Bangladesh,Hongkong,27,24,2022-06
+Bangladesh,Hongkong,28,25,2022-07
+Angola,Fuzhou,1,1,2022-07
+Angola,Hongkong,6,6,2022-05
+Angola,Hongkong,3,3,2022-07
+Nigeria,Fuzhou,1,1,2022-05
+Nepal,Guangzhou,1,1,2022-05
+Nepal,Chengdu,6,6,2022-05
+Nepal,Chengdu,6,6,2022-06
+Nepal,Chengdu,15,15,2022-07
+Nepal,Kunming,1,1,2022-05
+Nepal,Kunming,4,4,2022-06
+Nepal,Kunming,4,4,2022-07
+Nepal,Hongkong,6,6,2022-05
+Nepal,Hongkong,8,8,2022-06
+Nepal,Hongkong,6,6,2022-07
+Pakistan,Hohhot,2,2,2022-05
+Pakistan,Chengdu,1,1,2022-05
+Pakistan,Chengdu,1,1,2022-06
+Pakistan,Chengdu,3,3,2022-07
+Pakistan,Kunming,9,9,2022-05
+Pakistan,Hangzhou,1,1,2022-07
+Pakistan,Wuhan,3,3,2022-05
+Pakistan,Wuhan,5,5,2022-06
+Pakistan,Wuhan,5,5,2022-07
+Pakistan,Jinan,1,1,2022-06
+Pakistan,Xi'an,4,4,2022-06
+Pakistan,Xi'an,3,3,2022-07
+Pakistan,Guiyang,2,2,2022-06
+Pakistan,Zhengzhou,5,5,2022-05
+Pakistan,Zhengzhou,1,1,2022-06
+Pakistan,Zhengzhou,1,1,2022-07
+Pakistan,chongqing,2,2,2022-05
+Pakistan,chongqing,1,1,2022-06
+Pakistan,Hongkong,1,1,2022-05
+Papua New Guinea,Hongkong,4,4,2022-05
+Papua New Guinea,Hongkong,4,4,2022-06
+Papua New Guinea,Hongkong,6,6,2022-07
+Bahrain,Hongkong,68,26,2022-05
+Bahrain,Hongkong,70,29,2022-06
+Bahrain,Hongkong,67,26,2022-07
+Greece,Chengdu,1,1,2022-07
+Palau,Taipei,1,1,2022-05
+Palau,Taipei,2,2,2022-06
+Palau,Taipei,2,2,2022-07
+Germany,Shanghai,59,22,2022-05
+Germany,Shanghai,102,29,2022-06
+Germany,Shanghai,61,26,2022-07
+Germany,Beijing,70,28,2022-05
+Germany,Beijing,60,25,2022-06
+Germany,Beijing,77,29,2022-07
+Germany,Taipei,33,31,2022-05
+Germany,Taipei,30,28,2022-06
+Germany,Taipei,35,31,2022-07
+Germany,Tianjin,11,9,2022-07
+Germany,Guangzhou,1,1,2022-05
+Germany,Guangzhou,1,1,2022-06
+Germany,Chengdu,1,1,2022-05
+Germany,Chengdu,4,4,2022-06
+Germany,Chengdu,2,2,2022-07
+Germany,Hangzhou,1,1,2022-07
+Germany,Wuhan,1,1,2022-06
+Germany,Shenyang,3,3,2022-07
+Germany,Jinan,5,5,2022-05
+Germany,Jinan,3,3,2022-06
+Germany,Shenzhen,1,1,2022-06
+Germany,Shenzhen,2,2,2022-07
+Germany,chongqing,7,7,2022-05
+Germany,chongqing,5,5,2022-06
+Germany,chongqing,9,9,2022-07
+Germany,Changchun,1,1,2022-07
+Germany,Hongkong,96,31,2022-05
+Germany,Hongkong,120,30,2022-06
+Germany,Hongkong,127,31,2022-07
+Italy,Shanghai,39,26,2022-05
+Italy,Shanghai,56,30,2022-06
+Italy,Shanghai,56,30,2022-07
+Italy,Beijing,50,26,2022-05
+Italy,Beijing,38,21,2022-06
+Italy,Beijing,23,13,2022-07
+Italy,Nanjing,2,2,2022-06
+Italy,Nanjing,3,3,2022-07
+Italy,Hohhot,1,1,2022-06
+Italy,Hohhot,2,2,2022-07
+Italy,Tianjin,2,2,2022-05
+Italy,Tianjin,2,2,2022-06
+Italy,Tianjin,3,3,2022-07
+Italy,chongqing,2,2,2022-06
+Italy,chongqing,1,1,2022-07
+Italy,Hongkong,9,9,2022-06
+Italy,Hongkong,14,13,2022-07
+Czech,Chengdu,3,3,2022-05
+Brunei,Hangzhou,2,2,2022-05
+Brunei,Hangzhou,2,2,2022-06
+Brunei,Hangzhou,2,2,2022-07
+Brunei,Hongkong,5,5,2022-05
+Brunei,Hongkong,4,4,2022-06
+Brunei,Hongkong,6,6,2022-07
+Brunei,Kaohsiung,1,1,2022-05
+Fiji,Hongkong,4,4,2022-05
+Sri Lanka,Nanjing,1,1,2022-05
+Sri Lanka,Nanjing,1,1,2022-06
+Sri Lanka,Tianjin,1,1,2022-06
+Sri Lanka,Guangzhou,4,4,2022-05
+Sri Lanka,Guangzhou,6,6,2022-06
+Sri Lanka,Guangzhou,3,3,2022-07
+Sri Lanka,Kunming,1,1,2022-05
+Sri Lanka,Kunming,1,1,2022-06
+Sri Lanka,Kunming,1,1,2022-07
+Sri Lanka,Hongkong,14,11,2022-05
+Sri Lanka,Hongkong,6,6,2022-06
+Sri Lanka,Hongkong,7,7,2022-07
+Singapore,Shanghai,88,27,2022-05
+Singapore,Shanghai,149,30,2022-06
+Singapore,Shanghai,170,31,2022-07
+Singapore,Beijing,22,16,2022-05
+Singapore,Beijing,22,17,2022-06
+Singapore,Beijing,20,17,2022-07
+Singapore,Nanjing,4,4,2022-05
+Singapore,Nanjing,7,7,2022-06
+Singapore,Nanjing,7,7,2022-07
+Singapore,Nanchang,3,3,2022-06
+Singapore,Nanchang,2,2,2022-07
+Singapore,Xiamen,4,4,2022-05
+Singapore,Xiamen,5,5,2022-06
+Singapore,Xiamen,4,4,2022-07
+Singapore,Taipei,182,31,2022-05
+Singapore,Taipei,175,30,2022-06
+Singapore,Taipei,228,31,2022-07
+Singapore,Tianjin,4,4,2022-05
+Singapore,Tianjin,5,5,2022-06
+Singapore,Tianjin,4,4,2022-07
+Singapore,Guangzhou,13,13,2022-05
+Singapore,Guangzhou,16,16,2022-06
+Singapore,Guangzhou,14,14,2022-07
+Singapore,Chengdu,11,10,2022-05
+Singapore,Chengdu,16,14,2022-06
+Singapore,Chengdu,15,12,2022-07
+Singapore,Wuhan,1,1,2022-05
+Singapore,Wuhan,7,7,2022-06
+Singapore,Wuhan,8,8,2022-07
+Singapore,Shenzhen,2,2,2022-05
+Singapore,Shenzhen,8,7,2022-07
+Singapore,Macao,13,13,2022-05
+Singapore,Macao,14,14,2022-06
+Singapore,Macao,13,13,2022-07
+Singapore,Zhengzhou,3,3,2022-07
+Singapore,chongqing,6,6,2022-05
+Singapore,chongqing,6,6,2022-06
+Singapore,chongqing,6,6,2022-07
+Singapore,Hongkong,336,31,2022-05
+Singapore,Hongkong,329,30,2022-06
+Singapore,Hongkong,387,31,2022-07
+new Zealand,Shanghai,21,21,2022-05
+new Zealand,Shanghai,27,24,2022-06
+new Zealand,Shanghai,24,23,2022-07
+new Zealand,Xiamen,2,2,2022-05
+new Zealand,Xiamen,1,1,2022-06
+new Zealand,Xiamen,3,3,2022-07
+new Zealand,Taipei,35,26,2022-05
+new Zealand,Taipei,30,22,2022-06
+new Zealand,Taipei,29,22,2022-07
+new Zealand,Guangzhou,34,29,2022-05
+new Zealand,Guangzhou,30,26,2022-06
+new Zealand,Guangzhou,31,27,2022-07
+new Zealand,Hongkong,11,11,2022-05
+new Zealand,Hongkong,17,13,2022-06
+new Zealand,Hongkong,19,17,2022-07
+Japan,Shanghai,291,31,2022-05
+Japan,Shanghai,527,30,2022-06
+Japan,Shanghai,552,31,2022-07
+Japan,Yiwu,1,1,2022-07
+Japan,Beijing,74,26,2022-05
+Japan,Beijing,71,25,2022-06
+Japan,Beijing,38,25,2022-07
+Japan,Nanjing,2,2,2022-07
+Japan,Xiamen,31,31,2022-05
+Japan,Xiamen,11,11,2022-06
+Japan,Xiamen,32,31,2022-07
+Japan,Taipei,579,31,2022-05
+Japan,Taipei,658,30,2022-06
+Japan,Taipei,684,31,2022-07
+Japan,Tainan,2,2,2022-05
+Japan,Harbin,5,5,2022-05
+Japan,Harbin,4,4,2022-06
+Japan,Harbin,5,5,2022-07
+Japan,Dalian,32,21,2022-05
+Japan,Dalian,32,22,2022-06
+Japan,Dalian,41,22,2022-07
+Japan,Tianjin,2,2,2022-05
+Japan,Tianjin,2,2,2022-06
+Japan,Tianjin,7,7,2022-07
+Japan,Taiyuan,4,4,2022-05
+Japan,Taiyuan,4,4,2022-06
+Japan,Taiyuan,4,4,2022-07
+Japan,Weihai,1,1,2022-06
+Japan,Weihai,36,24,2022-07
+Japan,Ningbo,5,5,2022-05
+Japan,Ningbo,6,6,2022-06
+Japan,Ningbo,5,5,2022-07
+Japan,Guangzhou,38,26,2022-05
+Japan,Guangzhou,24,18,2022-06
+Japan,Guangzhou,38,26,2022-07
+Japan,Chengdu,16,16,2022-05
+Japan,Chengdu,17,15,2022-06
+Japan,Chengdu,17,16,2022-07
+Japan,Wuxi,4,4,2022-06
+Japan,Wuxi,7,7,2022-07
+Japan,Kunming,4,4,2022-05
+Japan,Kunming,3,3,2022-06
+Japan,Kunming,4,4,2022-07
+Japan,Hangzhou,37,27,2022-05
+Japan,Hangzhou,35,24,2022-06
+Japan,Hangzhou,32,24,2022-07
+Japan,Wuhan,1,1,2022-07
+Japan,Jinan,2,2,2022-05
+Japan,Jinan,7,7,2022-06
+Japan,Jinan,3,3,2022-07
+Japan,Haikou,1,1,2022-07
+Japan,Shenzhen,17,13,2022-05
+Japan,Shenzhen,9,9,2022-06
+Japan,Shenzhen,14,12,2022-07
+Japan,Yantai,3,3,2022-06
+Japan,Yantai,3,3,2022-07
+Japan,Fuzhou,12,12,2022-05
+Japan,Fuzhou,9,9,2022-06
+Japan,Fuzhou,9,9,2022-07
+Japan,Xi'an,2,2,2022-07
+Japan,Ganzhou,1,1,2022-06
+Japan,Ganzhou,1,1,2022-07
+Japan,Zhengzhou,1,1,2022-06
+Japan,Zhengzhou,2,2,2022-07
+Japan,chongqing,3,3,2022-05
+Japan,chongqing,4,4,2022-06
+Japan,chongqing,4,4,2022-07
+Japan,Qingdao,30,27,2022-05
+Japan,Qingdao,17,16,2022-06
+Japan,Qingdao,35,30,2022-07
+Japan,Hongkong,509,31,2022-05
+Japan,Hongkong,501,30,2022-06
+Japan,Hongkong,490,31,2022-07
+Japan,Kaohsiung,1,1,2022-05
+Japan,Kaohsiung,2,2,2022-07
+Cambodia,Xiamen,2,2,2022-06
+Cambodia,Xiamen,2,2,2022-07
+Cambodia,Taipei,18,13,2022-05
+Cambodia,Taipei,18,14,2022-06
+Cambodia,Taipei,27,18,2022-07
+Cambodia,Guangzhou,1,1,2022-05
+Cambodia,Guangzhou,4,4,2022-06
+Cambodia,Guangzhou,5,5,2022-07
+Cambodia,Kunming,1,1,2022-06
+Cambodia,Kunming,2,2,2022-07
+Cambodia,Hangzhou,1,1,2022-06
+Cambodia,Hangzhou,1,1,2022-07
+Cambodia,Wuhan,2,2,2022-05
+Cambodia,Wuhan,2,2,2022-06
+Cambodia,Shenzhen,1,1,2022-06
+Cambodia,Shenzhen,2,2,2022-07
+Cambodia,Zhengzhou,3,3,2022-05
+Cambodia,Zhengzhou,4,3,2022-06
+Cambodia,Zhengzhou,3,3,2022-07
+Cambodia,Hongkong,9,9,2022-05
+Cambodia,Hongkong,10,9,2022-06
+Cambodia,Hongkong,10,9,2022-07
+Belgium,Shanghai,4,4,2022-05
+Belgium,Shanghai,16,15,2022-06
+Belgium,Shanghai,13,12,2022-07
+Belgium,Beijing,13,11,2022-05
+Belgium,Beijing,6,6,2022-06
+Belgium,Beijing,5,5,2022-07
+Belgium,Xiamen,9,9,2022-05
+Belgium,Xiamen,11,11,2022-06
+Belgium,Guangzhou,1,1,2022-06
+Belgium,Chengdu,12,11,2022-05
+Belgium,Chengdu,11,11,2022-06
+Belgium,Chengdu,9,9,2022-07
+Belgium,Hangzhou,1,1,2022-05
+Belgium,Hangzhou,2,2,2022-06
+Belgium,Hangzhou,1,1,2022-07
+Belgium,Wuhan,4,4,2022-06
+Belgium,Wuhan,8,8,2022-07
+Belgium,Xi'an,6,6,2022-06
+Belgium,Xi'an,3,3,2022-07
+Belgium,Zhengzhou,5,5,2022-06
+Belgium,Zhengzhou,4,4,2022-07
+Belgium,chongqing,1,1,2022-05
+Belgium,chongqing,3,3,2022-06
+Belgium,Hongkong,6,5,2022-05
+Belgium,Hongkong,4,4,2022-06
+Belgium,Hongkong,12,10,2022-07
+Saudi Arabia,Shanghai,7,7,2022-05
+Saudi Arabia,Shanghai,8,8,2022-06
+Saudi Arabia,Shanghai,9,9,2022-07
+Saudi Arabia,Nanjing,1,1,2022-07
+Saudi Arabia,Dalian,1,1,2022-05
+Saudi Arabia,Guangzhou,10,8,2022-05
+Saudi Arabia,Guangzhou,13,9,2022-06
+Saudi Arabia,Guangzhou,8,8,2022-07
+Saudi Arabia,Chengdu,1,1,2022-05
+Saudi Arabia,Chengdu,1,1,2022-06
+Saudi Arabia,Hangzhou,1,1,2022-06
+Saudi Arabia,Hangzhou,1,1,2022-07
+Saudi Arabia,Jinan,1,1,2022-06
+Saudi Arabia,Fuzhou,1,1,2022-07
+Saudi Arabia,Zhengzhou,3,3,2022-05
+Saudi Arabia,Zhengzhou,2,2,2022-06
+Saudi Arabia,Zhengzhou,2,2,2022-07
+Saudi Arabia,Hongkong,63,31,2022-05
+Saudi Arabia,Hongkong,76,30,2022-06
+Saudi Arabia,Hongkong,61,31,2022-07
+France,Shanghai,16,15,2022-05
+France,Shanghai,26,23,2022-06
+France,Shanghai,20,20,2022-07
+France,Beijing,27,24,2022-05
+France,Beijing,20,15,2022-06
+France,Beijing,18,15,2022-07
+France,Taipei,21,21,2022-05
+France,Taipei,17,17,2022-06
+France,Taipei,18,18,2022-07
+France,Tianjin,3,3,2022-06
+France,Tianjin,1,1,2022-07
+France,Taiyuan,2,2,2022-05
+France,Taiyuan,1,1,2022-07
+France,Guangzhou,1,1,2022-05
+France,Guangzhou,1,1,2022-06
+France,Guangzhou,4,4,2022-07
+France,Chengdu,33,24,2022-05
+France,Chengdu,34,27,2022-06
+France,Chengdu,25,25,2022-07
+France,Hongkong,4,4,2022-05
+France,Hongkong,15,12,2022-06
+France,Hongkong,13,13,2022-07
+Poland,Tianjin,2,2,2022-05
+Poland,Tianjin,3,3,2022-06
+Poland,Tianjin,3,3,2022-07
+Poland,Shenyang,5,5,2022-07
+Thailand,Shanghai,91,30,2022-05
+Thailand,Shanghai,127,30,2022-06
+Thailand,Shanghai,87,31,2022-07
+Thailand,Beijing,9,9,2022-05
+Thailand,Beijing,5,5,2022-06
+Thailand,Beijing,2,2,2022-07
+Thailand,Nanning,1,1,2022-06
+Thailand,Nanning,1,1,2022-07
+Thailand,Nanchang,2,2,2022-07
+Thailand,Xiamen,9,9,2022-05
+Thailand,Xiamen,9,9,2022-06
+Thailand,Xiamen,8,8,2022-07
+Thailand,Taipei,221,31,2022-05
+Thailand,Taipei,198,30,2022-06
+Thailand,Taipei,256,31,2022-07
+Thailand,Guangzhou,72,31,2022-05
+Thailand,Guangzhou,45,29,2022-06
+Thailand,Guangzhou,13,12,2022-07
+Thailand,Chengdu,1,1,2022-05
+Thailand,Chengdu,1,1,2022-06
+Thailand,Chengdu,1,1,2022-07
+Thailand,Kunming,38,19,2022-05
+Thailand,Kunming,28,21,2022-06
+Thailand,Kunming,16,15,2022-07
+Thailand,Hangzhou,1,1,2022-06
+Thailand,Hangzhou,1,1,2022-07
+Thailand,Taoyuan,1,1,2022-07
+Thailand,Shenzhen,10,8,2022-05
+Thailand,Shenzhen,4,4,2022-06
+Thailand,Shenzhen,7,7,2022-07
+Thailand,Macao,4,4,2022-06
+Thailand,Macao,2,2,2022-07
+Thailand,Zhengzhou,1,1,2022-07
+Thailand,chongqing,1,1,2022-07
+Thailand,Changsha,1,1,2022-05
+Thailand,Changsha,1,1,2022-06
+Thailand,Changsha,1,1,2022-07
+Thailand,Hongkong,354,31,2022-05
+Thailand,Hongkong,276,30,2022-06
+Thailand,Hongkong,299,31,2022-07
+Australia,Shanghai,55,29,2022-05
+Australia,Shanghai,71,30,2022-06
+Australia,Shanghai,44,26,2022-07
+Australia,Xiamen,13,13,2022-05
+Australia,Xiamen,13,13,2022-06
+Australia,Xiamen,10,10,2022-07
+Australia,Taipei,78,31,2022-05
+Australia,Taipei,84,30,2022-06
+Australia,Taipei,81,31,2022-07
+Australia,Guangzhou,113,31,2022-05
+Australia,Guangzhou,99,30,2022-06
+Australia,Guangzhou,79,31,2022-07
+Australia,Chengdu,1,1,2022-05
+Australia,Kunming,3,3,2022-05
+Australia,Kunming,1,1,2022-06
+Australia,Haikou,6,6,2022-05
+Australia,Haikou,6,6,2022-06
+Australia,Haikou,7,7,2022-07
+Australia,Shenzhen,35,31,2022-05
+Australia,Shenzhen,29,25,2022-06
+Australia,Shenzhen,30,26,2022-07
+Australia,Macao,1,1,2022-05
+Australia,Fuzhou,2,2,2022-06
+Australia,Fuzhou,5,5,2022-07
+Australia,chongqing,5,5,2022-05
+Australia,chongqing,5,5,2022-06
+Australia,chongqing,5,5,2022-07
+Australia,Hongkong,154,31,2022-05
+Australia,Hongkong,148,30,2022-06
+Australia,Hongkong,126,31,2022-07
+Australia,Kaohsiung,1,1,2022-05
+Sweden,Xi'an,2,2,2022-06
+Sweden,Xi'an,3,3,2022-07
+Switzerland,Shanghai,11,11,2022-05
+Switzerland,Shanghai,15,15,2022-06
+Switzerland,Shanghai,13,13,2022-07
+Switzerland,Beijing,13,13,2022-05
+Switzerland,Beijing,12,12,2022-06
+Switzerland,Beijing,14,14,2022-07
+Switzerland,Hongkong,5,5,2022-05
+Switzerland,Hongkong,9,9,2022-06
+Switzerland,Hongkong,7,7,2022-07
+Belarus,Hohhot,5,5,2022-07
+Belarus,Hangzhou,1,1,2022-07
+Kuwait,Tianjin,1,1,2022-07
+Kuwait,Guangzhou,19,19,2022-05
+Kuwait,Guangzhou,14,14,2022-06
+Kuwait,Guangzhou,6,6,2022-07
+Kuwait,Hongkong,6,6,2022-05
+Kuwait,Hongkong,9,9,2022-06
+Jordan,Hongkong,1,1,2022-05
+Jordan,Hongkong,5,5,2022-06
+Jordan,Hongkong,4,4,2022-07
+Myanmar,Taipei,3,3,2022-05
+Myanmar,Taipei,4,4,2022-06
+Myanmar,Taipei,3,3,2022-07
+Myanmar,Guangzhou,5,5,2022-05
+Myanmar,Guangzhou,5,5,2022-06
+Myanmar,Guangzhou,6,6,2022-07
+Myanmar,Chengdu,3,3,2022-05
+Myanmar,Kunming,2,2,2022-05
+Myanmar,Kunming,4,4,2022-06
+Myanmar,Kunming,3,3,2022-07
+Myanmar,Hongkong,1,1,2022-07
+U.S.,Shanghai,223,31,2022-05
+U.S.,Shanghai,350,30,2022-06
+U.S.,Shanghai,321,31,2022-07
+U.S.,Beijing,119,31,2022-05
+U.S.,Beijing,107,30,2022-06
+U.S.,Beijing,72,30,2022-07
+U.S.,Nanjing,20,20,2022-05
+U.S.,Nanjing,9,9,2022-06
+U.S.,Nanjing,3,3,2022-07
+U.S.,Xiamen,30,30,2022-05
+U.S.,Xiamen,21,21,2022-06
+U.S.,Xiamen,16,16,2022-07
+U.S.,Taipei,608,31,2022-05
+U.S.,Taipei,592,30,2022-06
+U.S.,Taipei,593,31,2022-07
+U.S.,Hohhot,3,3,2022-06
+U.S.,Tianjin,3,3,2022-05
+U.S.,Tianjin,3,3,2022-07
+U.S.,Guangzhou,88,31,2022-05
+U.S.,Guangzhou,76,29,2022-06
+U.S.,Guangzhou,63,27,2022-07
+U.S.,Kunming,2,2,2022-07
+U.S.,Hangzhou,8,8,2022-06
+U.S.,Hangzhou,8,8,2022-07
+U.S.,Wuhan,2,2,2022-05
+U.S.,Wuhan,10,8,2022-06
+U.S.,Wuhan,1,1,2022-07
+U.S.,Shenyang,5,5,2022-06
+U.S.,Shenyang,4,4,2022-07
+U.S.,Shenzhen,120,31,2022-05
+U.S.,Shenzhen,78,29,2022-06
+U.S.,Shenzhen,66,29,2022-07
+U.S.,Fuzhou,5,5,2022-05
+U.S.,Fuzhou,5,5,2022-06
+U.S.,Fuzhou,5,5,2022-07
+U.S.,Zhengzhou,1,1,2022-05
+U.S.,Zhengzhou,4,4,2022-06
+U.S.,Zhengzhou,1,1,2022-07
+U.S.,Changsha,13,13,2022-05
+U.S.,Changsha,11,11,2022-06
+U.S.,Hongkong,143,30,2022-05
+U.S.,Hongkong,236,30,2022-06
+U.S.,Hongkong,240,31,2022-07
+Laos,Guangzhou,1,1,2022-05
+Laos,Guangzhou,1,1,2022-06
+Laos,Guangzhou,5,5,2022-07
+Laos,Kunming,9,9,2022-05
+Laos,Kunming,7,7,2022-06
+Laos,Kunming,15,15,2022-07
+Laos,Shenzhen,1,1,2022-07
+Kenya,Nanjing,1,1,2022-05
+Kenya,Nanjing,1,1,2022-06
+Kenya,Hangzhou,1,1,2022-06
+Kenya,Changsha,3,3,2022-06
+Kenya,Changsha,4,4,2022-07
+Kenya,Hongkong,4,4,2022-06
+Kenya,Hongkong,12,11,2022-07
+Finland,Shanghai,5,5,2022-05
+Finland,Shanghai,12,9,2022-06
+Finland,Shanghai,12,9,2022-07
+Finland,Tianjin,1,1,2022-07
+Finland,Chengdu,1,1,2022-07
+Finland,Hangzhou,3,3,2022-05
+Finland,Hangzhou,3,3,2022-06
+Finland,Hongkong,1,1,2022-05
+Finland,Hongkong,1,1,2022-06
+Finland,Hongkong,6,6,2022-07
+U.K.,Shanghai,19,16,2022-05
+U.K.,Shanghai,46,27,2022-06
+U.K.,Shanghai,34,28,2022-07
+U.K.,Beijing,21,20,2022-05
+U.K.,Beijing,16,11,2022-06
+U.K.,Beijing,4,4,2022-07
+U.K.,Taipei,19,17,2022-05
+U.K.,Taipei,20,20,2022-06
+U.K.,Taipei,12,8,2022-07
+U.K.,Tianjin,1,1,2022-07
+U.K.,Guangzhou,1,1,2022-06
+U.K.,Guangzhou,2,2,2022-07
+U.K.,Chengdu,34,24,2022-05
+U.K.,Chengdu,3,3,2022-06
+U.K.,Chengdu,2,2,2022-07
+U.K.,chongqing,3,3,2022-05
+U.K.,chongqing,3,3,2022-06
+U.K.,Qingdao,1,1,2022-07
+U.K.,Hongkong,44,29,2022-05
+U.K.,Hongkong,94,30,2022-06
+U.K.,Hongkong,99,31,2022-07
+U.K.,Kaohsiung,1,1,2022-07
+Netherlands,Shanghai,33,22,2022-05
+Netherlands,Shanghai,78,29,2022-06
+Netherlands,Shanghai,69,29,2022-07
+Netherlands,Beijing,1,1,2022-05
+Netherlands,Beijing,3,3,2022-06
+Netherlands,Beijing,5,5,2022-07
+Netherlands,Xiamen,12,12,2022-05
+Netherlands,Xiamen,13,13,2022-06
+Netherlands,Xiamen,12,12,2022-07
+Netherlands,Taipei,49,31,2022-05
+Netherlands,Taipei,46,29,2022-06
+Netherlands,Taipei,34,31,2022-07
+Netherlands,Tianjin,1,1,2022-07
+Netherlands,Guangzhou,5,4,2022-05
+Netherlands,Guangzhou,3,3,2022-06
+Netherlands,Guangzhou,4,4,2022-07
+Netherlands,Chengdu,3,3,2022-05
+Netherlands,Chengdu,4,4,2022-07
+Netherlands,chongqing,5,5,2022-05
+Netherlands,chongqing,2,2,2022-06
+Netherlands,chongqing,1,1,2022-07
+Netherlands,Hongkong,18,18,2022-05
+Netherlands,Hongkong,12,10,2022-06
+Netherlands,Hongkong,13,13,2022-07
+the Philippines,Shanghai,7,7,2022-05
+the Philippines,Shanghai,22,21,2022-06
+the Philippines,Shanghai,10,10,2022-07
+the Philippines,Beijing,1,1,2022-07
+the Philippines,Nanning,18,18,2022-05
+the Philippines,Nanning,14,14,2022-06
+the Philippines,Nanning,12,12,2022-07
+the Philippines,Xiamen,4,4,2022-05
+the Philippines,Xiamen,7,7,2022-06
+the Philippines,Xiamen,5,5,2022-07
+the Philippines,Taipei,167,31,2022-05
+the Philippines,Taipei,176,30,2022-06
+the Philippines,Taipei,184,31,2022-07
+the Philippines,Tianjin,4,4,2022-05
+the Philippines,Tianjin,3,3,2022-06
+the Philippines,Tianjin,4,4,2022-07
+the Philippines,Guangzhou,2,2,2022-05
+the Philippines,Guangzhou,3,3,2022-06
+the Philippines,Guangzhou,2,2,2022-07
+the Philippines,Hangzhou,11,11,2022-05
+the Philippines,Hangzhou,10,10,2022-06
+the Philippines,Hangzhou,10,9,2022-07
+the Philippines,Shenzhen,3,2,2022-05
+the Philippines,Shenzhen,4,3,2022-07
+the Philippines,Macao,1,1,2022-05
+the Philippines,Macao,1,1,2022-06
+the Philippines,Qingdao,2,2,2022-07
+the Philippines,Hongkong,233,31,2022-05
+the Philippines,Hongkong,253,30,2022-06
+the Philippines,Hongkong,286,31,2022-07
+the Philippines,Kaohsiung,4,4,2022-06
+the Philippines,Kaohsiung,6,6,2022-07
+Portugal,Xi'an,3,3,2022-06
+Portugal,Hongkong,2,2,2022-06
+Mongolia,Hohhot,1,1,2022-07
+Mongolia,Guangzhou,1,1,2022-07
+Spain,Shanghai,8,8,2022-05
+Spain,Shanghai,19,17,2022-06
+Spain,Shanghai,11,11,2022-07
+Spain,Tianjin,3,3,2022-07
+Spain,Chengdu,11,11,2022-05
+Spain,Hangzhou,1,1,2022-06
+Spain,Hangzhou,2,2,2022-07
+Spain,chongqing,1,1,2022-06
+Spain,chongqing,3,3,2022-07
+Vietnam,Shanghai,25,17,2022-05
+Vietnam,Shanghai,41,25,2022-06
+Vietnam,Shanghai,53,29,2022-07
+Vietnam,Nanjing,3,3,2022-05
+Vietnam,Nanjing,4,4,2022-06
+Vietnam,Nanjing,5,5,2022-07
+Vietnam,Xiamen,15,13,2022-05
+Vietnam,Xiamen,20,17,2022-06
+Vietnam,Xiamen,2,2,2022-07
+Vietnam,Taipei,312,31,2022-05
+Vietnam,Taipei,285,30,2022-06
+Vietnam,Taipei,305,31,2022-07
+Vietnam,Tainan,1,1,2022-06
+Vietnam,Guangzhou,15,13,2022-05
+Vietnam,Guangzhou,14,12,2022-06
+Vietnam,Guangzhou,8,8,2022-07
+Vietnam,Chengdu,20,19,2022-05
+Vietnam,Chengdu,25,25,2022-06
+Vietnam,Chengdu,20,20,2022-07
+Vietnam,Shenzhen,14,10,2022-05
+Vietnam,Macao,3,3,2022-05
+Vietnam,Macao,6,6,2022-06
+Vietnam,Macao,2,2,2022-07
+Vietnam,Zhengzhou,6,6,2022-05
+Vietnam,Zhengzhou,6,6,2022-06
+Vietnam,Zhengzhou,7,7,2022-07
+Vietnam,chongqing,4,4,2022-05
+Vietnam,chongqing,4,4,2022-06
+Vietnam,chongqing,5,5,2022-07
+Vietnam,Hongkong,179,31,2022-05
+Vietnam,Hongkong,203,30,2022-06
+Vietnam,Hongkong,214,31,2022-07
+Vietnam,Kaohsiung,4,4,2022-05
+Vietnam,Kaohsiung,5,5,2022-06
+Vietnam,Kaohsiung,4,4,2022-07
+Azerbaijan,Shanghai,15,13,2022-05
+Azerbaijan,Shanghai,14,12,2022-06
+Azerbaijan,Shanghai,17,14,2022-07
+Azerbaijan,Beijing,6,6,2022-05
+Azerbaijan,Beijing,4,4,2022-06
+Azerbaijan,Beijing,1,1,2022-07
+Azerbaijan,Taipei,18,17,2022-05
+Azerbaijan,Taipei,17,17,2022-06
+Azerbaijan,Taipei,16,16,2022-07
+Azerbaijan,Tianjin,2,2,2022-07
+Azerbaijan,Chengdu,7,7,2022-05
+Azerbaijan,Chengdu,2,2,2022-06
+Azerbaijan,Chengdu,2,2,2022-07
+Azerbaijan,Taoyuan,1,1,2022-07
+Azerbaijan,Zhengzhou,5,5,2022-05
+Azerbaijan,Zhengzhou,4,4,2022-06
+Azerbaijan,Zhengzhou,1,1,2022-07
+Azerbaijan,Hongkong,17,14,2022-05
+Azerbaijan,Hongkong,16,14,2022-06
+Azerbaijan,Hongkong,14,13,2022-07
+Algeria,Chengdu,2,2,2022-06
+Oman,Shanghai,2,2,2022-06
+Oman,Guangzhou,3,3,2022-05
+Oman,Guangzhou,2,2,2022-06
+Oman,Guangzhou,4,4,2022-07
+Oman,Hongkong,2,2,2022-05
+Oman,Hongkong,4,4,2022-06
+United Arab Emirates,Shanghai,31,22,2022-05
+United Arab Emirates,Shanghai,52,29,2022-06
+United Arab Emirates,Shanghai,62,31,2022-07
+United Arab Emirates,Beijing,11,10,2022-05
+United Arab Emirates,Beijing,13,10,2022-06
+United Arab Emirates,Beijing,11,9,2022-07
+United Arab Emirates,Xiamen,4,4,2022-06
+United Arab Emirates,Xiamen,1,1,2022-07
+United Arab Emirates,Taipei,27,21,2022-05
+United Arab Emirates,Taipei,23,20,2022-06
+United Arab Emirates,Taipei,22,18,2022-07
+United Arab Emirates,Tianjin,2,2,2022-07
+United Arab Emirates,Guangzhou,16,15,2022-05
+United Arab Emirates,Guangzhou,19,18,2022-06
+United Arab Emirates,Guangzhou,18,18,2022-07
+United Arab Emirates,Chengdu,1,1,2022-07
+United Arab Emirates,Hangzhou,1,1,2022-07
+United Arab Emirates,Wuhan,1,1,2022-05
+United Arab Emirates,Wuhan,1,1,2022-06
+United Arab Emirates,Wuhan,1,1,2022-07
+United Arab Emirates,Shenzhen,4,4,2022-05
+United Arab Emirates,Shenzhen,3,3,2022-07
+United Arab Emirates,chongqing,3,2,2022-06
+United Arab Emirates,chongqing,6,5,2022-07
+United Arab Emirates,Hongkong,134,31,2022-05
+United Arab Emirates,Hongkong,170,30,2022-06
+United Arab Emirates,Hongkong,170,31,2022-07
+South Korea,Shanghai,314,31,2022-05
+South Korea,Shanghai,419,30,2022-06
+South Korea,Shanghai,395,31,2022-07
+South Korea,Dongying,1,1,2022-06
+South Korea,Beijing,44,23,2022-05
+South Korea,Beijing,36,19,2022-06
+South Korea,Beijing,23,14,2022-07
+South Korea,Nanjing,1,1,2022-05
+South Korea,Nanjing,4,4,2022-06
+South Korea,Nanjing,7,7,2022-07
+South Korea,Xiamen,10,10,2022-05
+South Korea,Xiamen,9,9,2022-06
+South Korea,Xiamen,11,10,2022-07
+South Korea,Taipei,541,31,2022-05
+South Korea,Taipei,488,30,2022-06
+South Korea,Taipei,212,31,2022-07
+South Korea,Harbin,4,4,2022-05
+South Korea,Harbin,5,5,2022-06
+South Korea,Harbin,4,4,2022-07
+South Korea,Dalian,1,1,2022-05
+South Korea,Tianjin,42,21,2022-05
+South Korea,Tianjin,47,22,2022-06
+South Korea,Tianjin,39,23,2022-07
+South Korea,Taiyuan,1,1,2022-07
+South Korea,Weihai,4,4,2022-05
+South Korea,Weihai,14,9,2022-06
+South Korea,Weihai,63,24,2022-07
+South Korea,Guangzhou,15,12,2022-05
+South Korea,Guangzhou,21,19,2022-06
+South Korea,Guangzhou,17,16,2022-07
+South Korea,Chengdu,2,2,2022-05
+South Korea,Chengdu,6,6,2022-06
+South Korea,Chengdu,4,4,2022-07
+South Korea,Wuxi,13,13,2022-05
+South Korea,Wuxi,13,13,2022-06
+South Korea,Wuxi,1,1,2022-07
+South Korea,Hangzhou,14,14,2022-05
+South Korea,Hangzhou,15,11,2022-06
+South Korea,Hangzhou,16,14,2022-07
+South Korea,Wuhan,4,4,2022-05
+South Korea,Wuhan,5,5,2022-06
+South Korea,Wuhan,3,3,2022-07
+South Korea,Shenyang,3,3,2022-05
+South Korea,Shenyang,3,3,2022-06
+South Korea,Shenyang,1,1,2022-07
+South Korea,Jinan,3,3,2022-05
+South Korea,Jinan,3,3,2022-06
+South Korea,Jinan,4,4,2022-07
+South Korea,Shenzhen,8,6,2022-05
+South Korea,Shenzhen,5,5,2022-06
+South Korea,Shenzhen,11,8,2022-07
+South Korea,Yantai,29,22,2022-05
+South Korea,Yantai,34,22,2022-06
+South Korea,Yantai,20,15,2022-07
+South Korea,Fuzhou,1,1,2022-05
+South Korea,Fuzhou,1,1,2022-06
+South Korea,Fuzhou,1,1,2022-07
+South Korea,Xi'an,2,2,2022-06
+South Korea,Xi'an,5,5,2022-07
+South Korea,Ganzhou,1,1,2022-07
+South Korea,chongqing,1,1,2022-05
+South Korea,chongqing,2,2,2022-06
+South Korea,chongqing,5,5,2022-07
+South Korea,Changchun,4,4,2022-07
+South Korea,Changsha,1,1,2022-07
+South Korea,Qingdao,14,14,2022-05
+South Korea,Qingdao,14,14,2022-06
+South Korea,Qingdao,15,15,2022-07
+South Korea,Hongkong,532,31,2022-05
+South Korea,Hongkong,462,30,2022-06
+South Korea,Hongkong,472,31,2022-07
+Malaysia,Shanghai,15,14,2022-05
+Malaysia,Shanghai,36,23,2022-06
+Malaysia,Shanghai,28,25,2022-07
+Malaysia,Nanning,1,1,2022-05
+Malaysia,Nanning,6,6,2022-07
+Malaysia,Nanchang,1,1,2022-07
+Malaysia,Xiamen,12,12,2022-05
+Malaysia,Xiamen,8,8,2022-06
+Malaysia,Xiamen,9,9,2022-07
+Malaysia,Taipei,219,30,2022-05
+Malaysia,Taipei,234,30,2022-06
+Malaysia,Taipei,238,31,2022-07
+Malaysia,Guangzhou,6,6,2022-05
+Malaysia,Guangzhou,4,4,2022-06
+Malaysia,Guangzhou,7,6,2022-07
+Malaysia,Hangzhou,2,2,2022-05
+Malaysia,Hangzhou,3,3,2022-07
+Malaysia,Shenzhen,1,1,2022-05
+Malaysia,Shenzhen,1,1,2022-06
+Malaysia,Shenzhen,1,1,2022-07
+Malaysia,Hongkong,184,31,2022-05
+Malaysia,Hongkong,175,30,2022-06
+Malaysia,Hongkong,185,31,2022-07
